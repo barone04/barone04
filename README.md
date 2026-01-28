@@ -1,8 +1,8 @@
 <!-- Banner / Intro -->
 <div align="center">
 
-# Hi! I'm <Your Name> 👋
-**AI / Data / Backend** • <Your tagline>
+# Hi! I'm Baro 👋
+**AI Amateur** 
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-informational" />
@@ -22,48 +22,40 @@
 
 <div align="center">
 
-<!-- 1) Main stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-
-<!-- 2) Streak -->
-<img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=github-dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=barone04&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="165" src="https://streak-stats.demolab.com?user=barone04&hide_border=true&theme=github-dark" />
 
 <br/>
 
-<!-- 3) Top languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=donut&hide_border=true&theme=github_dark" />
 
-<!-- 4) Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&theme=github-compact" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barone04&hide_border=true&theme=github-compact" />
 
 </div>
+
+---
+
+## 🔥 Stats (by Repo / by Commit)
+
+| Top Languages by Repo | Top Languages by Commit |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&hide_border=true&theme=github_dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&langs_count=8&hide_border=true&theme=github_dark" /> |
+
+> (Hai khung này nhìn giống nhau vì đều là “top-langs”; nếu bạn muốn “by commit” đúng kiểu hơn, mình sẽ gợi ý tool khác bên dưới.)
 
 ---
 
 ## 🧭 Research Plans / Roadmap
 
-**Areas of interest:** AI • Data Science • MLOps • Backend • Systems
+**Areas of interest:** AI • Data Science • Machine Learning • MLOps • Backend
 
-| Year | Plan | Progress |
+| Year | Research Plan | Progress |
 |---|---|---|
-| 2026 | Build 3 end-to-end ML projects (data → training → deploy) | ▰▰▱▱▱ |
-| 2026 | Contribute to OSS weekly | ▰▰▰▱▱ |
-| 2026 | Write technical blogs (2/month) | ▰▱▱▱▱ |
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<!-- Cách 1: ảnh nằm trong repo profile, ví dụ đặt ở folder assets/ -->
-<img width="45%" src="./assets/cert1.png" />
-<img width="45%" src="./assets/cert2.png" />
-<br/>
-<img width="45%" src="./assets/cert3.png" />
-<img width="45%" src="./assets/cert4.png" />
-
-</div>
+| 2026 | Deep Learning fundamentals + 2 projects | ▰▰▱▱▱ |
+| 2026 | Data Engineering (ETL, warehouse) + 1 pipeline | ▰▰▰▱▱ |
+| 2026 | Publish 10 technical notes | ▰▱▱▱▱ |
 
 ---
 
