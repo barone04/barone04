@@ -37,25 +37,22 @@
 
 ---
 
-## 🔥 Stats (by Repo / by Commit)
+## 🔥 Stats
 
-| Top Languages by Repo | Top Languages by Commit |
+| GitHub Stats | Top Languages |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&hide_border=true&theme=github_dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&langs_count=8&hide_border=true&theme=github_dark" /> |
-
-> (Hai khung này nhìn giống nhau vì đều là “top-langs”; nếu bạn muốn “by commit” đúng kiểu hơn, mình sẽ gợi ý tool khác bên dưới.)
+| <img src="https://github-readme-stats.vercel.app/api?username=barone04&show_icons=true&hide_border=true&theme=github_dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&hide_border=true&theme=github_dark" /> |
 
 ---
 
 ## 🧭 Research Plans / Roadmap
 
-**Areas of interest:** AI • Data Science • Machine Learning • MLOps • Backend
+**Areas of interest:** AI • Data Science • Machine Learning • Model Compression • NLP
 
 | Year | Research Plan | Progress |
 |---|---|---|
-| 2026 | Deep Learning fundamentals + 2 projects | ▰▰▱▱▱ |
-| 2026 | Data Engineering (ETL, warehouse) + 1 pipeline | ▰▰▰▱▱ |
-| 2026 | Publish 10 technical notes | ▰▱▱▱▱ |
+| 2026 |  Heart Disease Behavioral Risk Factor Surveillance System | ▰▱▱▱▱ |
+| 2025 | Deep Learning Model Compression | ▰▰▰▱▱ |
 
 ---
 
