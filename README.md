@@ -53,21 +53,24 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white" />
 
 **ML / Data**
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-333?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-333?logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-333?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
 **DevOps**
 <br/>
-<img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+**OS**
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
 ---
 
