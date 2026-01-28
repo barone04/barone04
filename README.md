@@ -58,9 +58,10 @@
 
 ---
 
-## 🎯 Fun Stats
+## Quote
 
 <img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Science%20is%20what%20we%20understand%20well%20enough%20to%20explain%20to%20a%20computer%3B%20art%20is%20everything%20else.&author=Donald%20E.%20Knuth" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20purpose%20of%20learning%20is%20to%20become%20an%20independent%20thinker%2C%20not%20a%20mindless%20follower" />
+
 
