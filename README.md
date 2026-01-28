@@ -20,11 +20,13 @@
 
 ## 📊 Statistics
 <div align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barone04&theme=default)
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barone04&theme=default&utcOffset=7) |
 |---|---|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=default) |
+
 </div>
 ---
 
