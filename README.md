@@ -62,4 +62,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+> “The important thing is not to stop questioning. Curiosity has its own reason for existing.” — Albert Einstein
+
