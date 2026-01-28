@@ -58,10 +58,11 @@
 
 ---
 
-## Quote
+## 🎯 QuoteQuote
 
 <img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20purpose%20of%20learning%20is%20to%20become%20an%20independent%20thinker%2C%20not%20a%20mindless%20follower" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20purpose%20of%20learning%20is%20to%20become%20an%20independent%20thinker%2C%20not%20a%20mindless%20follower&author=Akshat%20Bansal" />
+
 
 
