@@ -55,7 +55,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-333?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Scala-333?logo=scala&logoColor=white" />
 
 **ML / Data**
 <br/>
@@ -67,7 +67,6 @@
 **DevOps**
 <br/>
 <img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-333?logo=githubactions&logoColor=white" />
 
 ---
 
