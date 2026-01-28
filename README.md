@@ -2,13 +2,16 @@
 <div align="center">
 
 # Hi! I'm Baro 👋
-**AI Amateur** 
+**AI Amateur**
+
+</div>
 
 ---
 
 ## 📊 Statistics
+
 <div align="center">
-  
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barone04&theme=default)
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barone04&theme=default&utcOffset=7) |
@@ -25,7 +28,7 @@
 
 | Year | Research Plan | Progress |
 |---|---|---|
-| 2026 |  Heart Disease Behavioral Risk Factor Surveillance System | ▰▱▱▱▱ |
+| 2026 | Heart Disease Behavioral Risk Factor Surveillance System | ▰▱▱▱▱ |
 | 2025 | Deep Learning Model Compression | ▰▰▰▱▱ |
 
 ---
@@ -60,5 +63,3 @@
 <img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-
----
