@@ -24,13 +24,6 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=barone04&show_icons=true&hide_border=true&theme=github_dark" />
 <img height="165" src="https://streak-stats.demolab.com?user=barone04&hide_border=true&theme=github-dark" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=donut&hide_border=true&theme=github_dark" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=barone04&hide_border=true&theme=github-compact" />
 
 </div>
