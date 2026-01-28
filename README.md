@@ -4,18 +4,6 @@
 # Hi! I'm Baro 👋
 **AI Amateur** 
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-informational" />
-</a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-informational" />
-</a>
-
-</div>
-
 ---
 
 ## 📊 Statistics
@@ -28,13 +16,6 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=default) |
 
 </div>
----
-
-## 🔥 Stats
-
-| GitHub Stats | Top Languages |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=barone04&show_icons=true&hide_border=true&theme=github_dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barone04&layout=compact&hide_border=true&theme=github_dark" /> |
 
 ---
 
@@ -76,14 +57,9 @@
 
 ## 🎯 Fun Stats
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
-</div>
 
 ---
-
-### 📌 Pinned Repos
-Pin project quan trọng trên profile: vào repo → **⋯** → **Pin** (hoặc ở profile phần “Pinned”).
-
