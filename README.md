@@ -20,13 +20,11 @@
 
 ## 📊 Statistics
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barone04&theme=default)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=barone04&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="165" src="https://streak-stats.demolab.com?user=barone04&hide_border=true&theme=github-dark" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barone04&hide_border=true&theme=github-compact" />
-
-</div>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barone04&theme=default&utcOffset=7) |
+|---|---|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=default) |
 
 ---
 
