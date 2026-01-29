@@ -58,7 +58,7 @@
 
 ---
 
-##  Quote
+## Quote
 
 <img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=brightgreen&style=flat" />
 
