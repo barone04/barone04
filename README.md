@@ -9,7 +9,7 @@
 ---
 
 ## 📊 Statistics
-
+ 
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barone04&theme=default)
