@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <div align="center">
- 
+  
 # Hi! I'm Baro 👋
 **AI Amateur**
  
