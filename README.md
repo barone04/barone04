@@ -5,7 +5,7 @@
 **AI Amateur**
     
 </div>
-  
+   
 --- 
 
 ## 📊 Statistics
