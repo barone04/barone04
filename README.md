@@ -2,7 +2,7 @@
 <div align="center">
     
 # Hi! I'm Baro 👋 
-**AI Amateur**
+**AI Amateur** 
     
 </div> 
    
