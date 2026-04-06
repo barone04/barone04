@@ -3,7 +3,7 @@
           
 #  Hi! I'm Baro 👋  
 **AI Amateur** 
-     
+      
 </div>  
    
 ---    
