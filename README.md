@@ -1,6 +1,6 @@
 <div align="center">
 
-# Baro 👋
+# BARO
 ### AI Amateur
 
 <p>
@@ -8,78 +8,128 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20NLP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-Data%20Science-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Model%20Compression-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Amateur-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Research%20Roadmap-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B7-0ea5e9?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ✦ Profile Snapshot
 
-- AI Amateur  
-- Interested in **AI, Data Science, Machine Learning, Model Compression, and NLP**
-- Currently building knowledge through research-oriented projects and practical experimentation
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Focus Areas
+- AI  
+- Data Science  
+- Machine Learning  
+- Model Compression  
+- NLP  
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Current Direction
+- Building through research-oriented projects  
+- Exploring practical ML / AI workflows  
+- Developing long-term research depth  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## ✦ GitHub Overview
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barone04&theme=default" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=default" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barone04&theme=default&utcOffset=7" width="48%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=default" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=default" width="48%" />
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=default" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=barone04&theme=default&utcOffset=7" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=default" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=default" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧭 Research Roadmap
+## ✦ Research Roadmap
 
-| Year | Research Plan | Progress |
-|---|---|---|
-| 2026 | Heart Disease Behavioral Risk Factor Surveillance System | ▰▱▱▱▱ |
-| 2025 | Deep Learning Model Compression | ▰▰▰▱▱ |
+```text
+[2025] Deep Learning Model Compression
+Progress: ▰▰▰▱▱
+
+[2026] Heart Disease Behavioral Risk Factor Surveillance System
+Progress: ▰▱▱▱▱
+```
 
 ---
 
-## 🛠 Tech Stack
+## ✦ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 ### ML / Data
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-### DevOps / OS
+</td>
+<td valign="top" width="50%">
+
+### DevOps
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+### OS
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 Favorite Quote
+## ✦ Quote
 
 <div align="center">
 
