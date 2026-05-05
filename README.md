@@ -32,8 +32,8 @@
 
 | Year | Research Plan | Progress |
 |---|---|---|
-| 2026 | Heart Disease Behavioral Risk Factor Surveillance System | ▰▱▱▱▱ |
-| 2025 | Deep Learning Model Compression | ▰▰▰▱▱ |
+| 2026 | Heart Disease Behavioral Risk Factor Surveillance System | ▰▰▱▱▱ |
+| 2025 | Deep Learning Model Compression | ▰▰▰▰▱ |
 
 ---
 
