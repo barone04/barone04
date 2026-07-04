@@ -1,29 +1,35 @@
-<!-- ===== GRADIENT HERO ===== -->
+<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Baro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Amateur%20AI%20Researcher&descSize=20&descAlignY=58&descColor=e0d9ff" alt="hero"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Baro" alt="name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Model+Compression+%C2%B7+NLP+%C2%B7+Machine+Learning;Making+big+models+small+and+fast;Smaller+%E2%80%A2+Faster+%E2%80%A2+Cheaper" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B8B9E&center=true&vCenter=true&width=600&lines=Amateur+AI+Researcher;Model+Compression+%C2%B7+NLP+%C2%B7+Machine+Learning;Making+big+models+small+and+fast" alt="subtitle" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="440" alt="ai research" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240" alt="ai research" />
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=barone04&label=PROFILE+VIEWS&color=6C5CE7&style=for-the-badge" alt="views"/>
+![Compression](https://img.shields.io/badge/🗜️_Model_Compression-6C5CE7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/📝_NLP-8E2DE2?style=for-the-badge)
+![ML](https://img.shields.io/badge/🤖_Machine_Learning-2575fc?style=for-the-badge)
+
+<img src="https://komarev.com/ghpvc/?username=barone04&label=Profile%20views&color=A78BFA&style=flat" alt="views"/>
 
 </div>
 
+<br/>
+
 ## 🔬 About
 
-> I'm an **amateur AI researcher** shrinking neural networks — smaller and faster,
-> without losing their intelligence. I care about clean experiments, reproducible
-> results, and models cheap enough to actually ship.
+I'm an **amateur AI researcher** who enjoys making neural networks smaller and
+faster without giving up their accuracy — clean experiments, reproducible
+results, and models cheap enough to actually ship.
 
-| 🗜️ Model Compression | 📝 NLP | 🤖 Machine Learning |
-|:---:|:---:|:---:|
-| Pruning · Quantization · Distillation | Language models · lightweight transformers | Applied modeling · data science |
+- 🗜️ **Model Compression** — pruning · quantization · knowledge distillation
+- 📝 **NLP** — language modeling · text classification · lightweight transformers
+- 🤖 **Machine Learning** — applied modeling · data science · experimentation
 
 ## 🧭 Research
 
@@ -58,9 +64,6 @@
 </div>
 
 <br/>
-
-<!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" alt="footer"/>
 
 <div align="center">
 <sub><i>"The purpose of learning is to become an independent thinker, not a mindless follower."</i> — Akshat Bansal</sub>
