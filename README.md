@@ -56,10 +56,13 @@ results, and models cheap enough to actually ship.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=tokyonight" alt="stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=tokyonight" alt="repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=tokyonight" alt="most commit language"/>
+<table>
+<tr>
+<td><img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barone04&theme=tokyonight" alt="stats"/></td>
+<td><img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barone04&theme=tokyonight" alt="repos per language"/></td>
+<td><img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barone04&theme=tokyonight" alt="most commit language"/></td>
+</tr>
+</table>
 
 </div>
 
